@@ -1,2 +1,2 @@
 # sample
-workout
+workout Regularly
